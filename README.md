@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🌟 Who I Am:
 
 Hi 👋 I'm Daniel Rodrigues!<br/>
-I’m passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models for disease detection and analysis, I thrive on transforming ideas into impactful projects.I’m constantly expanding my skill set and experimenting with the latest tools and technologies—whether it’s diving deep into Node.js, Python, or mastering DSA with Java, or pushing the boundaries of deep learning.<br/>
+I’m passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models for disease detection and analysis, I thrive on transforming ideas into impactful projects.I’m constantly expanding my skill set and experimenting with the latest tools and technologies—whether it’s diving deep into Node.js, Python, mastering DSA with Java, or pushing the boundaries of deep learning.<br/>
 
 Let’s shape the future together!
 
