@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **RodrigueDaniel/RodrigueDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-🌱 I’m currently learning<br>Data structures and algorithms (DSA) in Java, Node.js, web development, and Machine Learning
+# 🤖 About Me:
+## Hi there 👋 
+I'm Daniel Rodrigues
+
+🚀 Tech Enthusiast | Web Developer | ML Explorer
+Passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models that detect heart diseases through echocardiogram analysis, I thrive on turning ideas into impactful projects.
+I’m constantly learning and experimenting with the latest tools and technologies—whether it's deep diving into Node.js, cloud computing, or pushing the limits of deep learning. As a third-year CSE student, I lead projects, collaborate with open-source communities, and aim to make a meaningful difference in the tech world. Let’s build the future together!
 
 
 ## 🌐 Socials:
