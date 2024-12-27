@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🌟 Who I Am:
-<div style="font-size: 50px;">
+
 Hi 👋 I'm Daniel Rodrigues!<br/>
 I’m passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models for disease detection and analysis, I thrive on transforming ideas into impactful projects.I’m constantly expanding my skill set and experimenting with the latest tools and technologies—whether it’s diving deep into Node.js, Python, mastering DSA with Java, or pushing the boundaries of deep learning.<br/>
 
 Let’s shape the future together!
-</div>
+
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk1bnJtc3IxeGNkazg2ZW9xdTVxengxOTcxb3BucTIzZ2Q5aG5veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 </div>
