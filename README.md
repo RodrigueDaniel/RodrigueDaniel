@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🤖 About Me:
 
- Hi 👋 I'm Daniel Rodrigues, Passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models that detect heart diseases through echocardiogram analysis, I thrive on turning ideas into impactful projects.<br/>
-I’m constantly learning and experimenting with the latest tools and technologies—whether it's deep diving into Node.js, or pushing the limits of deep learning. Let’s build the future together!
+ Hi 👋 I'm Daniel Rodrigues, Passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models that detect heart diseases through echocardiogram analysis, I thrive on turning ideas into impactful projects. I’m constantly learning and experimenting with the latest tools and technologies—whether it's deep diving into Node.js, or pushing the limits of deep learning. Let’s build the future together!
 
 
 ## 🌐 Socials:
