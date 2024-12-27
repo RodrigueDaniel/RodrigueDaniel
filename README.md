@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🤖 About Me:
 
-Hi 👋 I'm Daniel Rodrigues, Passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models that detect heart diseases through echocardiogram analysis, I thrive on turning ideas into impactful projects.<br/>
+### Hi 👋 I'm Daniel Rodrigues, Passionate about building innovative solutions and exploring the intersection of technology and real-world problems. From crafting dynamic web applications to developing machine learning models that detect heart diseases through echocardiogram analysis, I thrive on turning ideas into impactful projects.<br/>
 I’m constantly learning and experimenting with the latest tools and technologies—whether it's deep diving into Node.js, cloud computing, or pushing the limits of deep learning. As a third-year CSE student, I lead projects, collaborate with open-source communities, and aim to make a meaningful difference in the tech world. Let’s build the future together!
 
 
